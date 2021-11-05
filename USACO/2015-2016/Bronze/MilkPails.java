@@ -27,6 +27,7 @@ if (x*i > m) break;
       }
    }
 }
-System.out.println(Collections.max(numbers));
+pw.println(Collections.max(numbers));
+pw.close();
 		}
   }
