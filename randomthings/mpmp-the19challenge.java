@@ -1,4 +1,5 @@
 // the goal of this problem is to essentially find if the sum of the first n squares of primes is divisible by 19. 
+// https://youtu.be/tBXGIXEV7tI
 // first create a boolean class to check if a number is prime. Then make a primes array and add the number of primes that are within a given range. Then make another for loop to check the given condition. 
 import java.util.ArrayList;
 import java.util.List;
