@@ -20,10 +20,10 @@ stored = x * i;
 if (x*i > m) break;
    for (int j = stored/x; j >= 0; j--) {
       for (int k = 0; k <=1000; k++) {
-      n = x * j + y * k;
-      if (n <= m) {
-      numbers.add(n);
-      }
+      	n = x * j + y * k;
+      	if (n <= m) {
+      		numbers.add(n);
+      	}
       }
    }
 }
