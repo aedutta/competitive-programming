@@ -11,10 +11,10 @@ int main()
     int N;
     string d1ck;
     int count = 0;
-    cin >> N >> d1ck;
+    cin >> N >> str;
     for (int i = 0; i < N; i++) {
         for (int j = 1; j <= N - i; j++) {
-            string s(d1ck, i, j);
+            string s(str, i, j);
             if (s.length() >= 3) {
                 int count1 = 0;
                 int count2 = 0;
