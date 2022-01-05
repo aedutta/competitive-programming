@@ -9,7 +9,7 @@ using ll = long long;
 int main()
 {
     int N;
-    string d1ck;
+    string str;
     int count = 0;
     cin >> N >> str;
     for (int i = 0; i < N; i++) {
