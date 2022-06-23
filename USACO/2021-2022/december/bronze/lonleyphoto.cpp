@@ -1,4 +1,3 @@
-// note this times out because algorithm is O(N^3). Will fix when I get time
 #include <iostream> 
 #include <fstream> 
 #include <cmath> 
